@@ -1,0 +1,91 @@
+body {
+	background-color: #3F94E7;
+
+}
+
+img {
+	height: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+form {
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	border-radius: 5px;
+}
+
+h1 {
+	text-align: center;
+	color: #5A5756;
+	font-weight: normal;
+}
+
+label {
+	display: block;
+	margin-bottom: 20px;
+
+	padding-left: 20px;
+}
+
+input {
+	width: 316px;
+	border: 2px #E7E7E7 solid;
+	padding: 15px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	background-color: #FCFCFC;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+button {
+	width: 350px;
+	padding: 15px;
+	background-color: #65C470;
+	color: #fff;
+	border: 2px #65C470 solid;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	font-size: 18px;
+}
+
+.forgotpsw a{
+	display: block;
+	text-align: center;
+	padding-bottom: 30px;
+	font-size: 16px;
+	color: grey;
+}
+
+section {
+	display: block;
+	text-align: center;
+	padding-bottom: 20px;
+	color: #fff;
+
+}
+
+section h2 {
+	font-size: 16px;
+
+}
+
+section a{
+	font-size: 16px;
+	color: #fff;
+
+}
+
